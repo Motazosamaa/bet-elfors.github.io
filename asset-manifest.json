@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7bc94318.css",
+    "main.js": "/static/js/main.91ea38cb.js",
+    "static/media/bg.png": "/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/meal.mp4": "/static/media/meal.142225a0dc7f84b47b62.mp4",
+    "static/media/welcome.png": "/static/media/welcome.e5537a83bfdf88b9df13.png",
+    "static/media/findus.png": "/static/media/findus.1afd9c84c3b42e761a85.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/gallery03.png": "/static/media/gallery03.227ae612dd214ff2bc00.png",
+    "static/media/gallery01.png": "/static/media/gallery01.5164c2e2e16f8b67a195.png",
+    "static/media/gallery04.png": "/static/media/gallery04.a258c7d2324d578d5bb9.png",
+    "static/media/gallery02.png": "/static/media/gallery02.4be6e8901e29a78c5515.png",
+    "static/media/overlaybg.png": "/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/chef.png": "/static/media/chef.1e63dfad2d3f0735067f.png",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/index.html",
+    "static/media/spoon.svg": "/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.7bc94318.css.map": "/static/css/main.7bc94318.css.map",
+    "main.91ea38cb.js.map": "/static/js/main.91ea38cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bc94318.css",
+    "static/js/main.91ea38cb.js"
+  ]
+}
